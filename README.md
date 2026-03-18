@@ -198,7 +198,7 @@ The application returns structured JSON in this exact format:
 
 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/anujabangal42/CortexCrew.git
+git clone https://github.com/SupriyaAnkush/CortexCrew.git
 cd CortexCrew
 ```
 
