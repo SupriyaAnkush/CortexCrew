@@ -5,8 +5,8 @@ Track: Pharmacogenomics / Explainable AI
 
 Team Members:
 1. Shruti Jalkote
-2. Anuja Bangal
-3. Supriya Ankush
+2. Supriya Ankush
+3. Anuja Bangal
 4. Pranjal Aher
 
 ---
@@ -242,7 +242,7 @@ http://127.0.0.1:5000
 ## Deployment on Render
 
 1️⃣ **Push project to GitHub**
-   - Repository: https://github.com/anujabangal42/CortexCrew
+   - Repository: https://github.com/SupriyaAnkush/CortexCrew
 
 2️⃣ **Go to [Render.com](https://render.com)**
    - Sign in with your GitHub account
@@ -282,6 +282,6 @@ This project is part of the RIFT 2026 Hackathon submission.
 
 ## Author
 
-**Anuja Bangal**
-- GitHub: [@anujabangal42](https://github.com/anujabangal42)
+**Supriya Ankush**
+- GitHub: [@SupriyaAnkush](https://github.com/SupriyaAnkush)
 
